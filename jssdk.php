@@ -87,7 +87,7 @@ class JSSDK {
    *
    */
   /*
-   * 1.签名用的noncestr和timestamp必须与wx.config中的nonceStr和timestamp相同。
+   * 1.签名用的 noncestr 和 timestamp 必须与 wx.config 中的 nonceStr 和 timestamp 相同。
    * 2.签名用的url必须是调用JS接口页面的完整URL。
    * 3.出于安全考虑，开发者必须在服务器端实现签名的逻辑。
    * 注意：
